@@ -1,5 +1,7 @@
 # Atividade 2.3 - Instalação e Configuração de Servidor Web
 
+## Grupo: Anatalia, Alexandre e Laizean 
+
 ## Pesquisa e Seleção
 
 Para o cenário da empresa ScreenMatch, que irá hospedar uma plataforma com conteúdo majoritariamente estático, como HTML, CSS, JavaScript, imagens e vídeos, além de possuir previsão de alto volume de tráfego, o servidor web escolhido foi o **Nginx**.
