@@ -1,6 +1,6 @@
 # Atividade 2.3 - Instalação e Configuração de Servidor Web
 
-## Grupo: Anatalia, Alexandre e Laizean 
+## Grupo: Anatalia e Laizean 
 
 ## Pesquisa e Seleção
 
